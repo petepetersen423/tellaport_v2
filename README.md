@@ -6,7 +6,7 @@
 ---
 **Welcome to the ETF Analyzer Project we call Tellaporte!**
 
-This project was a collaborative effort between two students enrolled in the Pepperdine Bootcamp Jan 2022..Pete Petersen and Dakota Braxton.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 16 weeks.  Telleporte V2 is the result.  The first phase of the project incorporated analyyzing data from the Nasdaq API in a way that we though would be useful to the final application.
+This project was a collaborative effort between two students enrolled in the Pepperdine Bootcamp Jan 2022..Pete Petersen and Dakota Braxton.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 16 weeks.  Telleporte V2 is the result.  The first phase of the project incorporated analyyzing data from the Nasdaq API in a way that we though would be useful to the final application.  The second project was used to discern an appropriate user interface for our user commmunity of nurses.
 
 # Project 2 Deliverables
 
@@ -16,9 +16,18 @@ The repo contains the lambda code, the mobies of the chatbit, and the voice reco
 
 [Tellaporte Project 2 Repo](https://github.com/petepetersen423/tellaport_v2)  
 
-## Project 2 Rpository Files
+## Project 2 Repository Files
 
 ![Tellaporte](tellaport_repo.png)
+
+The folloowing are the key delivery files and a description.
+
+1. RoboAdvisor_basic.mov - This file is was recorded in quicktime and is a short clip of a user interacting with the robot befor the lambda functions were introduced.  
+2. final_bot_with_lambda.mov - This is another quicktime movie that demonstrates three seperate interactions with the main roboadvisor intent named "reccomendPortfolio"  Of Note, are the three distict fufillment messages for each user that vary with the input.  
+3. teleport.drawio -  the appliocation architecture diagram of AWS comnponents used
+4. Telleport Presentation.pptx -  THe presentation that was used in class
+5. Welcome to telleport.mp3.  - The adio recording of a phoned in user that is using Amazon Connect and Poly to interact with the Amazion LEx bot
+6. lambda_function.py - This is the Amaazon Lambda function code.  THis is based on LEX V1 API and was converted to LEX V2.  LEX V@ features were needed for the Connect Contact Flow, so this needs some more debugging. (Code attribution to m15 challenge)
 
 ## Technologies
 
