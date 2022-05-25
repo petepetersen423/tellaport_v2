@@ -2,13 +2,36 @@
 
 ### By: Pete Petersen and Dakota Braxton
 
-        March 27, 2022  
+        May 23, 2022  
 ---
 **Welcome to the ETF Analyzer Project we call Tellaporte!**
 
-This project was a collaborative effort between two sutdents enrolled in the Pepperdine Bootcamp.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 8 weeks.  Telleporte is the result
+This project was a collaborative effort between two students enrolled in the Pepperdine Bootcamp Jan 2022..Pete Petersen and Dakota Braxton.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 16 weeks.  Telleporte V2 is the result.  The first phase of the project incorporated analyyzing data from the Nasdaq API in a way that we though would be useful to the final application.
 
-# Project Deliverables  
+# Project 2 Deliverables
+
+This is the second submittal of the Telaport application and focuses on voice bot and chatbot integrations as simple interface for the nurses to interact with.  This interface will be ultimately leverage the code on the backend from project 1
+
+The repo contains the lambda code, the mobies of the chatbit, and the voice recording of a live phone call.
+
+[Tellaporte Project 2 Repo](https://github.com/petepetersen423/tellaport_v2)  
+
+## Project 2 Rpository Files
+
+![Tellaporte](tellaport_repo.png)
+
+## Technologies
+
+Amazon Connect
+Amazon Lex
+Amazon Lambda
+Amazon Contact Flow
+Amazon Polli
+Amazon IAMS
+
+# Project 1 Deliverables  
+
+[Tellaporte Project 1 Repo](https://tellaporte.godaddysites.com/)  
 
 [Tellaporte Project Website](https://tellaporte.godaddysites.com/)  
 
@@ -49,18 +72,3 @@ The /data directory contains all the parquet files needed for the analysis so yo
         prices
         tech_ind
         zacks
-
-# Tellaport Version 2
-
-This is the second submittal of the Telaport application and focuses on voice bot and chatbot integrations as simple interface for the nurses to interact with.
-
-The repo contains the lambda code, the mobies of the chatbit, and the voice recording of a live phone call.
-
-## Technologies
-
-Amazon Connect
-Amazon Lex
-Amazon Lambda
-Amazon Contact Flow
-Amazon Polli
-Amazon IAMS
