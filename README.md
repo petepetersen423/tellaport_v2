@@ -6,7 +6,7 @@
 ---
 **Welcome to the ETF Analyzer Project we call Tellaporte!**
 
-This project was a collaborative effort between two students enrolled in the Pepperdine Bootcamp Jan 2022..Pete Petersen and Dakota Braxton.  We were charged with developing a fintech application using some of the techniques we learned in the previous 16 weeks.  Telleporte V2 is the result.  The first phase of the project incorporated analyzing data from the Nasdaq API in a way that we thought would be useful to the final application.  The second project was used to discern an appropriate user interface for our user commmunity of nurses.  In the case, we chose to make a proof of cocept for two different chat user interfaces(CUI) and other other in an Voice Repsonse Unit (VRU) form.  We belive that the knowledge learned from the POC code made this project a success and all of our expectations were met.  Our final decision was that the to CUI's are indeed an appropriarte interface and will server our machine learning and data cleaning techniques will during project 3.
+This project was a collaborative effort between two students enrolled in the Pepperdine Bootcamp Jan 2022 by Pete Petersen and Dakota Braxton.  We were charged with developing a fintech application using some of the techniques we learned in the previous 16 weeks.  Telleporte V2 is the result.  The first phase of the project incorporated analyzing data from the Nasdaq API in a way that we thought would be useful to the final application.  The second project was used to discern an appropriate user interface for our user commmunity of nurses.  In the case, we chose to make a proof of cocept for two different chat user interfaces(CUI) and other other in an Voice Repsonse Unit (VRU) form.  We belive that the knowledge learned from the POC code made this project a success and all of our expectations were met.  Our final decision was that the to CUI's are indeed an appropriarte interface and will server our machine learning and data cleaning techniques will during project 3.
 
 # Project 2 Deliverables
 
@@ -26,8 +26,8 @@ The following are the key delivery files and a description of each.
 2. final_bot_with_lambda.mov - This is another quicktime movie that demonstrates three seperate interactions with the main roboadvisor intent named "reccomendPortfolio"  Of Note, are the three distict fufillment messages for each user that vary with the input.  
 3. teleport.drawio -  the appliocation architecture diagram of AWS comnponents used
 4. Telleport Presentation.pptx -  THe presentation that was used in class
-5. Welcome to telleport.mp3.  - The adio recording of a phoned in user that is using Amazon Connect and Poly to interact with the Amazion LEx bot
-6. lambda_function.py - This is the Amaazon Lambda function code.  THis is based on LEX V1 API and was converted to LEX V2.  LEX V@ features were needed for the Connect Contact Flow, so this needs some more debugging. (Code attribution to m15 challenge)
+5. Welcome to telleport.mp3.  - The audio recording of a phoned in user that is using Amazon Connect and Poly to interact with the Amazion LEx bot
+6. lambda_function.py - This is the Amazon Lambda function code.  This is based on LEX V1 API and was converted to LEX V2.  LEX V@ features were needed for the Connect Contact Flow, so this needs some more debugging. (Code attribution to m15 challenge)
 
 ## Technologies
 
